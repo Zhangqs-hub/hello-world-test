@@ -9,5 +9,5 @@ learn Github
 3. three
 `var = True`
 # test
-> Coffee
-> - Captain
+> Coffee.
+> -- Captain
